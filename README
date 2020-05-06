@@ -1,0 +1,5 @@
+This is a python menu to help ease along introduction of a system administrator to important Linux commands.  
+Depending on what the user wants to do, they'll type in a number corresponding to the program's menu choices
+and that menu will lead the user to the commands that they want to do.  
+
+It's actually fairly self-explanatory, so go ahead and try it out!
